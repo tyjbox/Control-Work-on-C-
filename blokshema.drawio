@@ -1,0 +1,59 @@
+<mxfile host="65bd71144e">
+    <diagram id="OP7TDmwnWiI66eulYsZx" name="Страница 1">
+        <mxGraphModel dx="837" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="354" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="294" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;h3 style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;st&lt;/span&gt;[&lt;span style=&quot;color: rgb(181 , 206 , 168)&quot;&gt;6&lt;/span&gt;] {&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;hello&quot;&lt;/span&gt;,&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;world&quot;&lt;/span&gt;,&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;555&quot;&lt;/span&gt;,&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;1984&quot;&lt;/span&gt;,&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;587&quot;&lt;/span&gt;,&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;1489&quot;&lt;/span&gt;};&lt;br&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="171" y="130" width="366" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="354" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;h3 style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;int i =0;&amp;nbsp;&lt;/span&gt;i&lt;span style=&quot;font-weight: normal&quot;&gt; &amp;lt; &lt;/span&gt;&lt;span style=&quot;font-weight: normal ; color: rgb(156 , 220 , 254)&quot;&gt;array1&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-weight: normal ; color: rgb(156 , 220 , 254)&quot;&gt;Length&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;;&lt;/span&gt;&lt;/h3&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;i++;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="246.25" y="220" width="215.5" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="350" y="210" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="354" y="570"/>
+                            <mxPoint x="180" y="570"/>
+                            <mxPoint x="180" y="210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="11" target="16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="560" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;array&lt;/span&gt;[&lt;span style=&quot;color: #9cdcfe&quot;&gt;i&lt;/span&gt;].&lt;span style=&quot;color: #9cdcfe&quot;&gt;Length&lt;/span&gt; &amp;lt;= &lt;span style=&quot;color: #b5cea8&quot;&gt;3&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="229" y="440" width="250" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="530" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Print string" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="485" y="460" width="30" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
